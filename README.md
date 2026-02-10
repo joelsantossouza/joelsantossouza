@@ -2,7 +2,7 @@
 
 # 👨‍💻 Welcome to my GitHub
 
-### Systems Programmer | Low-Level Enthusiast | 42 Porto
+### Software Engineer | C | Python | 42 Porto
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a systems programmer passionate about understanding how software works at the **lowest level**. Currently studying at **42 Porto**, I spend my time writing C code, debugging kernel panics, and exploring the depths of operating systems.
+I'm a software engineer studying at **42 Porto**, focused on systems programming with C and Python. I build low-level applications and work with Linux internals, exploring how software interacts with the operating system.
 ```c
 while (learning) {
     write_code();
@@ -40,19 +40,19 @@ while (learning) {
 - Process Management & System Calls
 - Socket Programming & Network Stack
 - File Descriptors & I/O Operations
-- x86-64 Assembly & Low-Level Optimization
+- x86-64 Assembly & Low-Level Programming
 
 ---
 
 ## 🔭 What I'm Working On
 
-- 🐧 **Linux Systems Programming** - Process management, sockets, system calls
-- 🔧 **Low-Level Development** - File descriptors, IPC, memory management
-- 🧠 **Learning Path** - Kernel development, embedded systems, cybersecurity
+- 🐧 **Systems Programming Projects** - Building C applications with process management, sockets, and system calls
+- 🔧 **42 Curriculum** - Completing systems-level programming challenges
+- 🧠 **Automation** - Python and Bash scripting for workflow optimization
 
 ---
 
-## 💡 Current Focus
+## 💡 Current Interests
 ```bash
 $ cat interests.txt
 → Kernel Development
